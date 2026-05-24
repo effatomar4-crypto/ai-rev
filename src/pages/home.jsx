@@ -14,7 +14,6 @@ export default function Home() {
          <AiTypes />
          <AiBenefits />
          <Contact />
-         <HeroSection />
     </main>
     <Footer />
     </>
