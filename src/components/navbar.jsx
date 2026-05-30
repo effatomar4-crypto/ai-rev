@@ -15,7 +15,7 @@ export default function Navbar() {
     <nav className=" bg-white/80 backdrop-blur-md shadow-2xl fixed w-full z-50 ">
         <div className=" app-contaner flex justify-between items-center h-16 ">
             {/* logo */}
-            <span className="gradient-text text-2xl font-bold">Ai Revolution</span>
+            <span className="gradient-text text-2xl font-bold px-15">Ai Revolution</span>
 
             {/* desktop links */}
         <div className="hidden md:flex item-center space-x-8">
