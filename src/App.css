@@ -185,7 +185,7 @@ html {
   }
 
   .footer-bottom-text {
-    @apply text-gray-500 text-sm;
+    @apply text-gray-300 text-sm;
   }
 
   .footer-bottom-link-group {
@@ -193,6 +193,6 @@ html {
   }
 
   .footer-bottom-link {
-    @apply text-gray-500 hover:text-gray-300 text-sm;
+    @apply text-gray-200 hover:text-gray-500 text-sm;
   }
 }
